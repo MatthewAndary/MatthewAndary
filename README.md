@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Matthew Andary, i've recently completed a Masters in economics. 
-- 👀 I’m interested in data analysis, econometrics, and economic research. I'm eager to apply my skills in real-world projects and collaborate with others in the field.
-- 🌱 I’m currently learning Advanced econometric techniques, machine learning, and data visualization in Python, as much of my skills are in R.
-- 💞️ I’m looking to collaborate on data analysis projects, economic research, and open-source contributions
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthewandary)
+- Hi, I’m Matthew Andary, i've recently completed a Masters in economics.
+- I’m interested in data analysis, econometrics, and economic research. I'm eager to apply my skills in real-world projects and collaborate with others in the field.
+- I’m currently learning Advanced econometric techniques, machine learning, and data visualization in Python, as much of my skills are in R.
+- I’m looking to collaborate on data analysis projects, economic research, and open-source contributions
+- How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matthewandary)
 
 
 ## 🛠️ Languages and Tools
